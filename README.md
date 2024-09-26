@@ -1,4 +1,4 @@
-![logo](https://github.com/Samar-Memon/Samar-Memon/blob/main/White%20and%20Blue%20Memphis%20Graphic%20Designer%20LinkedIn%20Banner.png)
+![logo]([https://github.com/Samar-Memon/Samar-Memon/blob/main/White%20and%20Blue%20Memphis%20Graphic%20Designer%20LinkedIn%20Banner.png](https://github.com/Samar-Memon/Samar-Memon/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png))
 <h1 align="center">Hi 👋, I'm Samar Raza</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
