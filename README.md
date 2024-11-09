@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siddique-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="siddique-ahmed" /> </p>
 
-- 🌱 I’m currently learning **React js , Express js , Next Js , React Native**
+- 🌱 I’m currently learning **Next JS , MongoDB, Express JS , React Native**
 
 - 👨‍💻 All of my projects are available at [https://samarraza.vercel.app](https://samarraza.vercel.app)
 
