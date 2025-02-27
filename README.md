@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Samar-Memon&label=Profile%20views&color=0e75b6&style=flat" alt="Samar-Memon" /> </p>
 
-- 🌱 I’m currently learning **WebSockets** for real-time communication.
+- 🌱 I’m currently learning **Generative AI & Python** for Artificial Inteligence.
 - 👨‍💻 All of my projects are available at [**My Portfolio**](https://samarraza.vercel.app)
-- 💬 Ask me about **React**, **Node.js**, **Express.js**, **MongoDB**, and **JavaScript**.
+- 💬 Ask me about **Remix.Js**, **React**, **Node.Js**, **Express.Js**, **MongoDB**, and **JavaScript**.
 - 📫 How to reach me **samarjs786@gmail.com**
 - ⚡ Fun Fact: **I love building full-stack applications that provide seamless experiences from frontend to backend.**
 
